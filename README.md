@@ -55,44 +55,6 @@ This project presents an interactive Tableau dashboard analyzing online retail d
 
 ---
 
-### 📸 Dashboard Preview
-
-#### 🔹 Full Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
-
-#### 🔹 Monthly Revenue
-![Monthly Revenue](images/monthly_revenue.png)
-
-#### 🔹 Top Countries by Revenue
-![Top Countries](images/top_countries.png)
-
-#### 🔹 Top Customers by Revenue
-![Top Customers](images/top_customers.png)
-
-#### 🔹 Demand by Country
-![Demand by Country](images/demand_by_country.png)
-
----
-
-### 🚀 How to Use
-1. Download the `.twbx` file from the `dashboard` folder  
-2. Open using Tableau Desktop or Tableau Public  
-3. Explore the dashboard interactively  
-
----
-
-### 📁 Repository Structure
-```
-online-retail-analysis-tableau-2011/
-│
-├── data/
-├── dashboard/
-├── images/
-├── README.md
-└── LICENSE
-```
-
----
 
 ### 🔗 Project Context
 This project demonstrates the application of data visualization techniques to extract business insights from retail data.
